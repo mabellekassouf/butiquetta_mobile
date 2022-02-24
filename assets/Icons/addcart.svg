@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.532" height="29.335" viewBox="0 0 33.532 29.335">
+  <g id="Group_855" data-name="Group 855" transform="translate(-1769.444 -834.665)">
+    <g id="Group_797" data-name="Group 797" transform="translate(1770.444 835.665)">
+      <path id="Path_1470" data-name="Path 1470" d="M158,155.652h2.382a2.014,2.014,0,0,1,1.936,1.461l5.826,18.174a2.014,2.014,0,0,0,1.936,1.461H184.64a2.014,2.014,0,0,0,1.954-1.525l2.868-11.471a2.014,2.014,0,0,0-1.954-2.5H163.851" transform="translate(-158 -155.652)" fill="none" stroke="#567374" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle id="Ellipse_66" data-name="Ellipse 66" cx="2.059" cy="2.059" r="2.059" transform="translate(11.615 23.218)" fill="none" stroke="#567374" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <circle id="Ellipse_67" data-name="Ellipse 67" cx="2.059" cy="2.059" r="2.059" transform="translate(22.939 23.139)" fill="none" stroke="#567374" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <text id="_" data-name="+" transform="translate(1784.932 853.611)" fill="#557374" stroke="#567374" stroke-width="0.25" font-size="15" font-family="SegoeUI, Segoe UI" letter-spacing="0.05em"><tspan x="0" y="0">+</tspan></text>
+  </g>
+</svg>
